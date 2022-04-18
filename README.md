@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://badges.pufler.dev/visits/jhowards/jhowards" />
   <img src="https://badges.pufler.dev/repos/jhowards" />
-  <img src="https://badges.pufler.dev/commits/monthly/jhowards" />
 </p>
 
 ## <p align="center">💼 Skills</p>

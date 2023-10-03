@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-🌱 I’m currently exploring Front End Development<br/>
+🌱 Front End Developer<br/>
 🔭 I’m currently working on Terraformer (https://terraformer.vercel.app/)
 </p>
 
